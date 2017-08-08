@@ -1,0 +1,9 @@
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\bin\Debug\vb-importclass.exe.config
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\bin\Debug\vb-importclass.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\bin\Debug\vb-importclass.pdb
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\bin\Debug\vb-importclass.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\obj\Debug\vb_importclass.Resources.resources
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\obj\Debug\vb-importclass.vbproj.GenerateResource.Cache
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\obj\Debug\vb-importclass.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\obj\Debug\vb-importclass.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-importclass\vb-importclass\obj\Debug\vb-importclass.pdb
